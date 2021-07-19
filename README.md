@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an PhD student in Economics at the Chinese University of Hong Kong(CUHK).
+I'm a PhD student in Economics at the Chinese University of Hong Kong(CUHK).
 
 My research interests mainly focus on applied microeconomics, including:
 - :sunny: How technology affect labor market
