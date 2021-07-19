@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an PhD student in Economics at the Chinese University of Hong Kong(CUHK).
+
+My research interests mainly focus on applied microeconomics, including:
+- :sunny: How technology affect labor market
+- :snowflake: The role of government sector in China
+- :cloud: Machine learning method applications in economics
+
 <!--
 **WeiXu94/WeiXu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
