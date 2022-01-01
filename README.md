@@ -9,4 +9,6 @@ My research interests mainly focus on applied microeconomics, including:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [鳗鱼的秘密](https://weixu94.github.io/blogs/2021/12/blog-post-1/)
+- [记易老师谈话](https://weixu94.github.io/blogs/2021/12/blog-post-2/)
 <!-- BLOG-POST-LIST:END -->
