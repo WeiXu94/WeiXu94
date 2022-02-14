@@ -9,7 +9,9 @@ My research interests mainly focus on applied microeconomics, including:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [2022-01-30 凤凰山](https://www.weixu.fun//blogs/2022/01/blog-post-1/)
-- [鳗鱼的秘密](https://www.weixu.fun//blogs/2021/12/blog-post-1/)
-- [记易老师谈话](https://www.weixu.fun//blogs/2021/12/blog-post-2/)
+- [Hacking Stata DTA file](https://www.weixu.fun/record/2022/02/08/hacking-dta-file/)
+- [万物皆是 C 语言](https://www.weixu.fun/thought/2022/02/08/all-are-c/)
+- [我们的地球——看 YouTube 频道《老高与小茉》有感](https://www.weixu.fun/thought/2022/02/08/the-earth/)
+- [王者荣耀背后的计算机原理](https://www.weixu.fun/thought/2022/02/08/hok-computer-background/)
+- [2022-01-30 凤凰山](https://www.weixu.fun/hiking/2022/01/30/Lantau-Peak/)
 <!-- BLOG-POST-LIST:END -->
